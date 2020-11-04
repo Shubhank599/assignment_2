@@ -1,0 +1,25 @@
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-11-03 17:04:09 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\hp\eclipse-workspace\Customer-main\target\classes\com\cg\customer\dao\CustomerDaoImpl.class]
+2020-11-03 17:04:09 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\hp\eclipse-workspace\Customer-main\target\classes\com\cg\customer\service\CustomerServiceImpl.class]
+2020-11-03 17:04:09 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\hp\eclipse-workspace\Customer-main\target\classes\com\cg\customer\ui\ProjectUi.class]
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customerDaoImpl'
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customerServiceImpl'
+2020-11-03 17:04:09 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'projectUi'
+2020-11-03 17:07:36 DEBUG AnnotationConfigApplicationContext:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@783e6358
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-11-03 17:07:36 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\hp\eclipse-workspace\Customer-main\target\classes\com\cg\customer\dao\CustomerDaoImpl.class]
+2020-11-03 17:07:36 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\hp\eclipse-workspace\Customer-main\target\classes\com\cg\customer\service\CustomerServiceImpl.class]
+2020-11-03 17:07:36 DEBUG ClassPathBeanDefinitionScanner:435 - Identified candidate component class: file [C:\Users\hp\eclipse-workspace\Customer-main\target\classes\com\cg\customer\ui\ProjectUi.class]
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'javaConfiguration'
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customerDaoImpl'
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'customerServiceImpl'
+2020-11-03 17:07:36 DEBUG DefaultListableBeanFactory:225 - Creating shared instance of singleton bean 'projectUi'
