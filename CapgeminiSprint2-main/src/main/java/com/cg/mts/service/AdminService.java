@@ -96,8 +96,14 @@ public class AdminService implements IAdminService {
 
 	@Override
 	public List<TripBooking> getAllTripsForDays(int customerId, LocalDateTime fromDate, LocalDateTime toDate) {
-		// TODO Auto-generated method stub
-		return null;
+		List<TripBooking> trips = null;
+		try {
+			trips = adminRepository.getAllTripsForDays(customerId, fromDate, toDate);
+		}
+		catch(CustomerNotFoundException ex) {
+			ex.printStackTrace();
+		}
+		return trips;
 	}
 
 	
